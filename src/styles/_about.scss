@@ -24,6 +24,8 @@
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
     font-size: 56px;
+    display: flex;
+    justify-content: center;
   }
 }
 
