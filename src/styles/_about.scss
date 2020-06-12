@@ -9,11 +9,12 @@
 
 .tech {
   margin: 10px;
+  display: flex;
 }
 
 .user {
   text-align: center;
-  font-size: 60px;
+  font-size: 48px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -23,7 +24,7 @@
   }
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
-    font-size: 56px;
+    font-size: 48px;
     display: flex;
     justify-content: center;
   }
