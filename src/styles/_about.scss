@@ -22,7 +22,7 @@
   p {
     font-size: 16px;
   }
-  @media only screen and (min-width: $cut) {
+  @media only screen and (min-width: 550px) {
     flex-wrap: nowrap;
     font-size: 48px;
     display: flex;
